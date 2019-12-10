@@ -3,9 +3,9 @@
 * .[2_CMYK] (https://pablosantonja.github.io/CMYK/)
 * .[3_Broom] (https://pablosantonja.github.io/broom/)
 * .[4_Maquetacion] (https://pablosantonja.github.io/maquetaci-/)
-* .[6_Tarjetas] ( https://pablosantonja.github.io/tarjeta/
-* .[7_landing Pages]
-* .[8_Practica MOMA]
+* .[5_Tarjetas] ( https://pablosantonja.github.io/tarjeta/
+* .[6_landing Pages]
+* .[7_Practica MOMA]
 
 ## Pàginas clase
 * [Pàginas clase 2GP](https://arquesm.github.io/2GP/)
