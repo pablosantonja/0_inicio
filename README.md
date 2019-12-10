@@ -1,6 +1,6 @@
 ## Actividades
 * .[1_Sitioweb] ()
-* .[2_CMYK] ()
+* .[2_CMYK] (https://pablosantonja.github.io/CMYK/)
 * .[3_Broom] (https://pablosantonja.github.io/broom/)
 * .[4_Maquetacion] (https://pablosantonja.github.io/maquetaci-/)
 * .[6_Tarjetas] ( https://pablosantonja.github.io/tarjeta/
