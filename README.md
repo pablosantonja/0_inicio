@@ -1,9 +1,9 @@
 ## Actividades
-* .[1_Sitioweb]
-* .[2_CMYK]
-* .[3_Broom]
+* .[1_Sitioweb] ()
+* .[2_CMYK] ()
+* .[3_Broom] ()
 * .[4_Maquetacion]
-* .[6_Tarjetas]
+* .[6_Tarjetas] ( https://pablosantonja.github.io/tarjeta/
 * .[7_landing Pages]
 * .[8_Practica MOMA]
 
