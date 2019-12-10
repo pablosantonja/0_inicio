@@ -3,7 +3,7 @@
 * .[2_CMYK] (https://pablosantonja.github.io/CMYK/)
 * .[3_Broom] (https://pablosantonja.github.io/broom/)
 * .[4_Maquetacion] (https://pablosantonja.github.io/maquetaci-/)
-* .[5_Tarjetas] ( https://pablosantonja.github.io/tarjeta/
+* .[5_Tarjetas] (https://pablosantonja.github.io/tarjeta/)
 * .[6_landing Pages] (https://pablosantonja.github.io/landing-page/)
 * .[7_Practica MOMA]
 
